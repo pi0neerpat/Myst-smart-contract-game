@@ -1,7 +1,5 @@
 # Myst-smart-contract-game
 
-# EthLendLeverage
-
 # Purpose
 
 Create a real-life adventure game platform.
